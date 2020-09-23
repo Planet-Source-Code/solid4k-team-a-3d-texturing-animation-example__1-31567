@@ -1,0 +1,3 @@
+There should be a file in this folder called "RMControl.oc", rename it to "RMControl.ocx", then move the control into the folder "3D Park", which should also be in this folder.
+
+I did this because Planet Source Code removes ocx files from uploads. 
